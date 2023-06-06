@@ -21,7 +21,7 @@
 Чтобы вставить изображение достаточно написать следующее:![Привет, это тефтелька!](7c1ec0efe6faa8731916a01bd753759f.jpeg)
 ## Ссылки
 
-Самый лёгкий способ поместить ссылку в Markdown — заключить её в угловые скобки. Например, вот так: [Ссылка](https://skillbox.ru/media/code/yazyk-razmetki-markdown-shpargalka-po-sintaksisu-s-primerami/?ysclid=lijlw8erss601862795#stk-18) или  ссылка с подсказкой: [Ссылка](https://skillbox.ru/media/code/yazyk-razmetki-markdown-shpargalka-po-sintaksisu-s-primerami/?ysclid=lijlw8erss601862795#stk-18/ "Нажми, чтобы перейти по ссылке")
+Самый лёгкий способ поместить ссылку в Markdown — заключить её в угловые скобки. Например, вот так: [Ссылка](https://skillbox.ru/media/code/yazyk-razmetki-markdown-shpargalka-po-sintaksisu-s-primerami/?ysclid=lijlw8erss601862795#stk-18) или  ссылка с подсказкой: [Ссылка](https://skillbox.ru/media/code/yazyk-razmetki-markdown-shpargalka-po-sintaksisu-s-primerami/?ysclid=lijlw8erss601862795#stk-18/ "Нажми, чтобы перейти по ссылке").
 ## Работа с таблицами
 
 ## Цыиаты
